@@ -10,7 +10,7 @@
 import Foundation
 import Metal
 
-print("Metal Features Inspector")
+print("Metal Features Inspector 1.0.0")
 print("Copyright (c) 2018 Tobias Punke")
 
 var __Devices: [MTLDevice] = MTLCopyAllDevices()
